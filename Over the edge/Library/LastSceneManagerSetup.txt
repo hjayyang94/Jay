@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Basic Platform Jumper.unity
+  isLoaded: 1
+  isActive: 1

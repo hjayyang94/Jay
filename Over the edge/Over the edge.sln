@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Over the edge.Plugins", "Over the edge.Plugins.csproj", "{C15994BA-E288-3624-8043-7F3AC2D605C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Over the edge", "Over the edge.csproj", "{34A395ED-15D3-8F3C-A5D4-03D5E5403F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Over the edge.Editor.Plugins", "Over the edge.Editor.Plugins.csproj", "{C27C907F-62E2-7542-06D9-06DCD77D72B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C15994BA-E288-3624-8043-7F3AC2D605C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15994BA-E288-3624-8043-7F3AC2D605C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15994BA-E288-3624-8043-7F3AC2D605C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15994BA-E288-3624-8043-7F3AC2D605C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A395ED-15D3-8F3C-A5D4-03D5E5403F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A395ED-15D3-8F3C-A5D4-03D5E5403F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A395ED-15D3-8F3C-A5D4-03D5E5403F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A395ED-15D3-8F3C-A5D4-03D5E5403F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27C907F-62E2-7542-06D9-06DCD77D72B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27C907F-62E2-7542-06D9-06DCD77D72B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27C907F-62E2-7542-06D9-06DCD77D72B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27C907F-62E2-7542-06D9-06DCD77D72B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
